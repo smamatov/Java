@@ -1,4 +1,4 @@
-
+package HackerRankPrep;
 
 /*
 Minimal moves to form a string by adding characters or appending string itself

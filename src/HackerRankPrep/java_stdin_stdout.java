@@ -1,3 +1,5 @@
+package HackerRankPrep;
+
 import java.util.Scanner;
 
 public class java_stdin_stdout {

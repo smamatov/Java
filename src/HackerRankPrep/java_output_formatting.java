@@ -1,3 +1,5 @@
+package HackerRankPrep;
+
 import java.util.Scanner;
 public class java_output_formatting {
     public static void main(String[] args) {
